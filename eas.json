@@ -1,0 +1,24 @@
+{
+  "cli": {
+    "version": ">= 9.0.6"
+  },
+  "build": {
+    "development-simulator": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "development": {},
+    "staging": {
+      "env": {
+      }
+    }
+  },
+  "submit": {
+    "development": {
+      "ios": {
+        "ascAppId": "6502818077",
+        "appleTeamId": "8T9XJ7RWKS"
+      }
+    }
+  }
+}
