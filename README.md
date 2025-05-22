@@ -1,4 +1,4 @@
-# Fort Lock Frontend
+# FortPass Frontend
 
 Expo managed React Native application
 
