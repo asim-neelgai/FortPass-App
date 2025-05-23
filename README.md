@@ -1,4 +1,4 @@
-# FortPass Frontend
+# CipherSafe Frontend
 
 Expo managed React Native application
 
@@ -21,4 +21,4 @@ Expo managed React Native application
     - Press `i` to open it in an iOS simulator
     - Press `a` to open it in an Android emulator
     - Press `w` to open it in a web browser
-# FortPass-App
+# CipherSafe-App
